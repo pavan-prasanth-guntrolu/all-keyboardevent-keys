@@ -27,7 +27,7 @@ import KEY from 'all-keyboardevent-keys'
 You can access word keys using dot notation:
 
 ```js
-import { KEY } from 'onkey-event-manager'
+import { KEY } from 'all-keyboardevent-keys'
 
 KEY.Enter // 'Enter'
 KEY.Tab   // 'Tab'
